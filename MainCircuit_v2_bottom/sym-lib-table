@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MainCircuit_v2_bottom-rescue)(type Legacy)(uri ${KIPRJMOD}/MainCircuit_v2_bottom-rescue.lib)(options "")(descr ""))
+)
